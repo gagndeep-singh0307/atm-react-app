@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "4013",
+      "name": "Peter Parker",
+      "balance": 9968,
+      "cardType": "VISA"
+    },
+    {
+      "id": "3347",
+      "name": "Clark Kent",
+      "balance": 15000,
+      "cardType": "MASTERCARD"
+    },
+    {
+      "id": "4037",
+      "name": "Bruce Wayne",
+      "balance": 21448,
+      "cardType": "VISA"
+    },
+    {
+      "id": "3379",
+      "name": "Diana Prince",
+      "balance": 25000,
+      "cardType": "MASTERCARD"
+    },
+    {
+      "id": "4099",
+      "name": "Tony Stark",
+      "balance": 30000,
+      "cardType": "VISA"
+    },
+    {
+      "id": "1670",
+      "name": "Natasha Romanoff",
+      "balance": 35000,
+      "cardType": "MAESTRO"
+    },
+    {
+      "id": "4972",
+      "name": "Steve Rogers",
+      "balance": 40000,
+      "cardType": "VISA"
+    },
+    {
+      "id": "2233",
+      "name": "Wade Wilson",
+      "balance": 45000,
+      "cardType": "STAR"
+    },
+    {
+      "id": "7337",
+      "name": "Carol Danvers",
+      "balance": 50000,
+      "cardType": "RAINBOW"
+    },
+    {
+      "id": "3093",
+      "name": "Stephen Strange",
+      "balance": 55000,
+      "cardType": "MASTERCARD"
+    },
+    {
+      "id": "4732",
+      "name": "Peter Quill",
+      "balance": 60000,
+      "cardType": "VISA"
+    },
+    {
+      "id": "3823",
+      "name": "Gamora",
+      "balance": 65000,
+      "cardType": "MASTERCARD"
+    },
+    {
+      "id": "4324",
+      "name": "Rocket Raccoon",
+      "balance": 70000,
+      "cardType": "VISA"
+    },
+    {
+      "id": "8123",
+      "name": "Groot",
+      "balance": 70000,
+      "cardType": "PLUS"
+    }
+  ]
+}
